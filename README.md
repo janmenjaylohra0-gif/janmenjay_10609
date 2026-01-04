@@ -1,8 +1,6 @@
 Electricity Bill Calculator
-Project Details
 This is a C programming project that calculates electricity bills based on tiered pricing structures. The program implements a progressive billing system where the cost per unit increases as consumption rises.
-Pricing Structure
-
+Pricing Structure-
 0-50 units: Rs. 0.50 per unit
 51-150 units: First 50 at Rs. 0.50, remaining at Rs. 0.75 per unit
 151-250 units: First 50 at Rs. 0.50, next 100 at Rs. 0.75, remaining at Rs. 1.20 per unit
